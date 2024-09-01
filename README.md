@@ -1,5 +1,7 @@
 # Cat_VS_Dogs
 This is a classification of cats and dogs
+
+step by step we compare VGG pretrained(98%), our custom network(82%), resnet18, densenet121
 - Data Acquisition and Preparation:
     - Download Cats vs. Dogs dataset from Kaggle
     - Organize dataset into appropriate directory structure
