@@ -1,5 +1,6 @@
 # Cat_VS_Dogs
 This is a classification of cats and dogs
+I used the dataset that i receive from kaggle
 
 step by step we compare VGG pretrained(98%), our custom network(82%), resnet18, densenet121
 ![image](https://github.com/user-attachments/assets/b51473a2-526a-44ad-8e82-4da721992e34)
