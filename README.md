@@ -26,7 +26,7 @@ This is a classification of cats and dogs
     - Evaluate model on test set
     - Calculate and report metrics (accuracy, precision, recall, F1-score)
     - Generate confusion matrix
-- Prediction Pipeline:
+- Prediction :
     - Load trained model
     - Implement preprocessing for new images
     - Create prediction function
